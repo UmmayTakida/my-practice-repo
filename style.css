@@ -4,5 +4,26 @@ p{
     height: 200px;
     width: 600px;
     font-size: 25px;
+    text-align: center;
 
+}
+.category{
+    background-color: darkgoldenrod;
+    color: brown;
+    height: 250px;
+    width: 200px;
+    font-size: 25px;
+    
+
+}
+.culture{
+    border: darkgreen solid 20px;
+    border-radius: 10px;
+    margin: 40px 200px;
+    padding: 40px 150px;
+}
+.same{
+    color: darkorchid;
+    text-align: center;
+    font-size: 40px;
 }
